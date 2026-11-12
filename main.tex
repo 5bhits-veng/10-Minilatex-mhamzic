@@ -7,6 +7,7 @@
 \usepackage{float}
 \usepackage{csquotes}
 \usepackage[backend=biber,style=numeric]{biblatex}
+\usepackage{tikz}
 
 \addbibresource{literatur.bib}
 \title{Aufbau einer Mini-Dokumentation}
@@ -21,7 +22,7 @@ Erstellen einer Mini-Dokumentation.
 Dokumentation über Projekt xy. 
 \subsection{2.Thema}
 Projektbeschreibung
-\end{document}
+
 
 
 \section{Hardware}
@@ -32,4 +33,30 @@ Wichtige Hardware in unserem Projekt xy.
     \item Switch
     \item Raspberry Pi
 \end{itemize}
+
+
+\section{Netzwerkaufbau}
+
+In Abbildung~\ref{fig:netzwerk} sieht man
+einen unseren Netzwerkaufbau.
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+\node[draw, rectangle] (router) at (0,2) {Router};
+\node[draw, rectangle] (switch) at (0,0) {Switch};
+\node[draw, rectangle] (raspberry) at (4,-2) {Raspberry Pi};
+\node[draw, rectangle] (raspberry2) at (-4,-2) {Raspberry Pi 2};
+
+\draw (router) -- (switch);
+\draw (switch) -- (raspberry);
+\draw (switch) -- (raspberry2);
+\end{tikzpicture}
+\caption{Einfacher Netzwerkaufbau}
+\label{fig:netzwerk}
+\end{figure}
+
+
+
+\end{document}
 
