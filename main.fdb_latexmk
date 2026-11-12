@@ -1,26 +1,32 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1794491573.9389 0
-  "literatur.bib" 0 -1 0 ""
-  "main.bcf" 0 -1 0 "pdflatex"
+["biber main"] 1794491936.44613 "main.bcf" "main.bbl" "main" 1794491949.71956 0
+  "literatur.bib" 1794491782 247 32efdb87d9422c1441c35109e32d3030 ""
+  "main.bcf" 1794491949 108616 7f3cb3ff97f651b47aed3d3342ac9fb3 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1794491571.13353 "c:/Users/hammu/OneDrive - HTBLuVA Salzburg/HTL-Salzburg 5BHITS/VENG/10-Minilatex-mhamzic/main.tex" "main.pdf" "main" 1794491573.94073 0
+["pdflatex"] 1794491947.32537 "c:/Users/hammu/OneDrive - HTBLuVA Salzburg/HTL-Salzburg 5BHITS/VENG/10-Minilatex-mhamzic/main.tex" "main.pdf" "main" 1794491949.72091 0
   "C:/Users/hammu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1794490584 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/hammu/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1793796569 40136 0e8a03fa9f385ebdbfaa1cfa0e34dc2b ""
   "C:/Users/hammu/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk" 1792065637 49100 d5104a7f64c4eac9205f83751a2f040b ""
+  "C:/Users/hammu/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1200.pk" 1794491944 30576 7c40ebc36e189aaa098c6afc3386c173 ""
   "C:/Users/hammu/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk" 1792065635 28440 e21f0689cd2226e774dbe59049b7cbe1 ""
   "C:/Users/hammu/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1440.pk" 1792065639 34320 29ce34a92d5a5af1bfdd4e4c653af3b4 ""
   "C:/Users/hammu/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm2074.pk" 1792065641 53736 65df5626fe713e6dd4c1e25f8383bebb ""
+  "C:/Users/hammu/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk" 1793796571 39120 dd78e1f7a155f95a7755c91c2b3a59f3 ""
+  "C:/Users/hammu/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ectt1200.pk" 1793796563 24152 c59625a194c5dc42a253183757718509 ""
   "C:/Users/hammu/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1793796567 14064 e69719316179ac65fd7d44a3979b1d64 ""
   "C:/Users/hammu/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1792065522 13402714 9f0eec421f5ea43e0875a587a6226040 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1440.tfm" 993061960 3196 0b37fa3083e15c57cfa8c4ff52f2807a ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1728.tfm" 993061962 3204 d35cb76836b6cb4ed404dd64a550530d ""
+  "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/eccc1200.tfm" 993061984 2796 601f0e3324021d7edb90718e24047a6a ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993062126 3152 4850ff0163852b7fab34bd55e1197f28 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1440.tfm" 993062128 3168 3bd7b08ba4330af81521911744311212 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1728.tfm" 993062128 3168 11457c8185ce67fb79662ba8b03d6db1 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm2074.tfm" 993062130 3184 b2541675eba9fa86d240ec0ecc913558 ""
+  "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecti1200.tfm" 993062324 2832 28bbd97ca29f46e76c87a158a9915203 ""
+  "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ectt1200.tfm" 993062344 1348 c48a0620e07683860afba1730adf9e53 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993062508 1444 95ffe0f19b974d50849790c8225c7ef7 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -154,11 +160,11 @@
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfrcs.sty" 1785614823 327 81c4d60bbfd94d6f902f43edce8f8091 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/hammu/OneDrive - HTBLuVA Salzburg/HTL-Salzburg 5BHITS/VENG/10-Minilatex-mhamzic/main.tex" 1794491566 2078 213393c18035b2f54cf1f0979e109b8e ""
-  "main.aux" 1794491573 1486 d01bfe419a5e8b1d30c9598c1cb68399 "pdflatex"
-  "main.bbl" 0 -1 0 "biber main"
-  "main.run.xml" 1794491573 2334 1b5b1514c9fec959a0c2940f259774d3 "pdflatex"
-  "main.tex" 1794491566 2078 213393c18035b2f54cf1f0979e109b8e ""
+  "c:/Users/hammu/OneDrive - HTBLuVA Salzburg/HTL-Salzburg 5BHITS/VENG/10-Minilatex-mhamzic/main.tex" 1794491900 2340 05e799a912cd7ad9c07ae9854a1b7eaa ""
+  "main.aux" 1794491949 1660 a4bb4e43a65c53af96ee939a6615aa45 "pdflatex"
+  "main.bbl" 1794491939 1954 84a1d38d0f08ab34b7b6feebcb305d57 "biber main"
+  "main.run.xml" 1794491949 2334 1b5b1514c9fec959a0c2940f259774d3 "pdflatex"
+  "main.tex" 1794491900 2340 05e799a912cd7ad9c07ae9854a1b7eaa ""
   (generated)
   "main.aux"
   "main.bcf"
