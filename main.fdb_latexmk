@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1794491227.68094 0
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1794491573.9389 0
   "literatur.bib" 0 -1 0 ""
   "main.bcf" 0 -1 0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1794491224.79962 "c:/Users/hammu/OneDrive - HTBLuVA Salzburg/HTL-Salzburg 5BHITS/VENG/10-Minilatex-mhamzic/main.tex" "main.pdf" "main" 1794491227.6837 0
+["pdflatex"] 1794491571.13353 "c:/Users/hammu/OneDrive - HTBLuVA Salzburg/HTL-Salzburg 5BHITS/VENG/10-Minilatex-mhamzic/main.tex" "main.pdf" "main" 1794491573.94073 0
   "C:/Users/hammu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1794490584 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/hammu/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1793796569 40136 0e8a03fa9f385ebdbfaa1cfa0e34dc2b ""
   "C:/Users/hammu/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk" 1792065637 49100 d5104a7f64c4eac9205f83751a2f040b ""
@@ -34,6 +34,8 @@
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
+  "C:/Users/hammu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1788969753 151459 3a561ecfcd51c49895b3a92b34b10fa7 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/de/babel-de.ini" 1788969754 4756 92888823fff6f4ca75fea4a633466377 ""
@@ -152,11 +154,11 @@
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfrcs.sty" 1785614823 327 81c4d60bbfd94d6f902f43edce8f8091 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/hammu/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/hammu/OneDrive - HTBLuVA Salzburg/HTL-Salzburg 5BHITS/VENG/10-Minilatex-mhamzic/main.tex" 1794491227 1776 c51e171ec73fb2a2ed9cacfd96d99ec0 ""
-  "main.aux" 1794491226 1323 4e06ed357de999767b110ad4cc572a18 "pdflatex"
+  "c:/Users/hammu/OneDrive - HTBLuVA Salzburg/HTL-Salzburg 5BHITS/VENG/10-Minilatex-mhamzic/main.tex" 1794491566 2078 213393c18035b2f54cf1f0979e109b8e ""
+  "main.aux" 1794491573 1486 d01bfe419a5e8b1d30c9598c1cb68399 "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
-  "main.run.xml" 1794491226 2334 1b5b1514c9fec959a0c2940f259774d3 "pdflatex"
-  "main.tex" 1794491227 1776 c51e171ec73fb2a2ed9cacfd96d99ec0 ""
+  "main.run.xml" 1794491573 2334 1b5b1514c9fec959a0c2940f259774d3 "pdflatex"
+  "main.tex" 1794491566 2078 213393c18035b2f54cf1f0979e109b8e ""
   (generated)
   "main.aux"
   "main.bcf"
